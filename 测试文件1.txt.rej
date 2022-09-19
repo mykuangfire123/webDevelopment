@@ -1,0 +1,7 @@
+diff a/测试文件1.txt b/测试文件1.txt	(rejected hunks)
+@@ -1 +0,2 @@
+-这是第一个测试文件。
+\ No newline at end of file
++这是第一个测试文件。
++第1次修改
+\ No newline at end of file
